@@ -2,7 +2,7 @@ PRIVACY POLICY FOR TennisPro
 Last Updated: January 10, 2026
 
 1. INTRODUCTION
-This Privacy Policy describes how TennisPro ("App," "we," "our," or "us"), developed by Veera R Maddiapti, collects, uses, and protects your information. This App is a tournament management platform designed for users in India. By using the App, you consent to the data practices described in this policy in accordance with the Digital Personal Data Protection (DPDP) Act, 2023.
+This Privacy Policy describes how TennisPro ("App," "we," "our," or "us"), developed by Veera R Maddiapti, collects, uses, and protects your information. This App is a tournament management platform designed for users in India, the USA, and the UAE. By using the App, you consent to the data practices described in this policy in accordance with the Digital Personal Data Protection (DPDP) Act, 2023.
 
 Developer Contact: mveera21@gmail.com
 
@@ -11,7 +11,7 @@ We only collect data that is necessary for the core functionality of organizing 
 
 A. Information You Provide Directly (Consent-Based):
 
-User Profile: Name, phone number, age, and villa/community name.
+User Profile: Name, phone number, age, Email, and villa/community name.
 
 Tournament Data: Tournament names, venues, dates, and match formats.
 
@@ -44,6 +44,8 @@ Storage: Your data is stored securely in Firebase Cloud Firestore (Google Cloud)
 Sharing: Your Name and Match Scores are visible to other participants within the same tournament. Your contact details and villa information are shared only with the specific Tournament Organizer for event coordination and residency verification.
 
 Third-Party Services: We use Google Firebase for backend services. You can view Google’s privacy terms at policies.google.com/privacy.
+We use the optional OAuth Gmail sign-in so that users can track their registrations and delete them.
+We provide an option to generate tournament organizers' UPI code in the form of a QR code so that players can scan QR code to pay any registration fee if it's required. These transactions happen outside of the app. QR in the app 
 
 5. YOUR RIGHTS (DPDP ACT 2023 COMPLIANCE)
 Under Indian law, you have the following rights:
@@ -52,7 +54,7 @@ Right to Access: You can view your profile and registration data within the App.
 
 Right to Correction: You can request updates to inaccurate info.
 
-Right to Withdrawal: You may withdraw your consent for data collection at any time. (Note: This will result in removal from the tournament).
+Right to Withdrawal: You may withdraw your consent for data collection at any time. (Note: This will result in removal from the tournament.
 
 Right to Erasure: You can request the permanent deletion of your data and photos by emailing mveera21@gmail.com. We will process erasure requests within 30 days.
 
